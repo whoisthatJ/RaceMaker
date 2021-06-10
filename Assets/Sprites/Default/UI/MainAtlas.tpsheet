@@ -1,0 +1,52 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f7df910f7fea2ecc43d0140db5bae5cc:e7711059e59b42fe6ff877696229f2de:c8802ef9cfa6b36f6d8cf69bb9e019dd$
+#
+:format=40300
+:texture=MainAtlas.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+Ads;70;23;80;53; 0.5;0.5; 0;0;0;0
+BackgroundColor;972;722;16;16; 0.5;0.5; 0;0;0;0
+BackgroundTilePurple;2;377;250;250; 0.5;0.5; 0;0;0;0
+BackgroundTileTeal;255;729;250;250; 0.5;0.5; 0;0;0;0
+BestScore;211;26;63;50; 0.5;0.5; 0;0;0;0
+BestScoreRoad;400;36;52;40; 0.5;0.5; 0;0;0;0
+BlueRoundMidButton;520;894;68;85; 0.5;0.5; 0;0;0;0
+Coin;889;854;80;80; 0.5;0.5; 0;0;0;0
+DarkPanel;977;929;40;40; 0.5;0.5; 0;0;0;0
+DarkPanelWarning;972;886;40;40; 0.5;0.5; 0;0;0;0
+DirectSoccer;630;766;256;256; 0.5;0.5; 0;0;0;0
+Fail;343;32;54;44; 0.5;0.5; 0;0;0;0
+GradientPanel;1007;397;8;400; 0.5;0.5; 0;0;0;0
+GreenColorBtn;972;703;16;16; 0.5;0.5; 0;0;0;0
+GreenMidButton;520;806;56;85; 0.5;0.5; 0;0;0;0
+HI256x256;2;79;256;256; 0.5;0.5; 0;0;0;0
+icon256x256;579;507;256;256; 0.5;0.5; 0;0;0;0
+LoadingBar;972;843;40;40; 0.5;0.5; 0;0;0;0
+LockBorder;889;937;85;85; 0.5;0.5; 0;0;0;0
+LockSmall;977;972;40;50; 0.5;0.5; 0;0;0;0
+MidButton;520;718;56;85; 0.5;0.5; 0;0;0;0
+NewLevel;972;741;32;56; 0.5;0.5; 0;0;0;0
+OrangeMidButton;520;630;56;85; 0.5;0.5; 0;0;0;0
+Panel;1015;922;4;4; 0.5;0.5; 0;0;0;0
+PanelChooseButton;1015;915;4;4; 0.5;0.5; 0;0;0;0
+PauseButton;889;771;80;80; 0.5;0.5; 0;0;0;0
+RedColorBtn;972;684;16;16; 0.5;0.5; 0;0;0;0
+RightChoice;2;6;65;70; 0.5;0.5; 0;0;0;0
+SelectedSmall;277;26;63;50; 0.5;0.5; 0;0;0;0
+SettingsButton;889;688;80;80; 0.5;0.5; 0;0;0;0
+StarSmall;153;23;55;53; 0.5;0.5; 0;0;0;0
+TealColorBtn;1002;378;16;16; 0.5;0.5; 0;0;0;0
+TimerBar;2;982;625;40; 0.5;0.5; 0;0;0;0
+TTU_icon;261;79;256;256; 0.5;0.5; 0;0;0;0
+WhiteBorderBtn;972;800;40;40; 0.5;0.5; 0;0;0;0
+WhiteColorBtn;1002;359;16;16; 0.5;0.5; 0;0;0;0
+WhiteGradientPanel;991;338;8;400; 0.5;0.5; 0;0;0;0
+YellowColorBtn;1002;340;16;16; 0.5;0.5; 0;0;0;0

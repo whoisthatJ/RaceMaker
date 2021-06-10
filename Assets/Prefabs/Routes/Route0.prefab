@@ -1,0 +1,758 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1502330842597532}
+  m_IsPrefabAsset: 1
+--- !u!1 &1161971004087116
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4323723806040200}
+  m_Layer: 0
+  m_Name: FalseTrailContainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1502330842597532
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4812373908533090}
+  - component: {fileID: 212337778618103458}
+  - component: {fileID: 114773260743474868}
+  m_Layer: 0
+  m_Name: Route0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1601649607460198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4709851645002594}
+  m_Layer: 0
+  m_Name: TrueTrailContainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4323723806040200
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1161971004087116}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4812373908533090}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4709851645002594
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1601649607460198}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4812373908533090}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4812373908533090
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1502330842597532}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4709851645002594}
+  - {fileID: 4323723806040200}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114773260743474868
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1502330842597532}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd3a0c3004844921a613396b5056ec1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trueTrail: []
+  falseTrail: []
+  sprites:
+  - {fileID: 21300000, guid: a40d3861a9b6b467291ef1e3c1a228c2, type: 3}
+  - {fileID: 21300000, guid: f3afed9eadea74694ac1631da4b8d4f9, type: 3}
+  - {fileID: 21300000, guid: d4cab72f816a94d5491c60ee1eb75702, type: 3}
+  - {fileID: 21300000, guid: 7e424c9cf11d4458bb4db0a862b1daba, type: 3}
+  - {fileID: 21300000, guid: 7b8d01d648fb64d339d3c836fbee9263, type: 3}
+  - {fileID: 21300000, guid: f0fb402b26e1a4730ad125b6e6bf58a0, type: 3}
+  - {fileID: 21300000, guid: 2c597365ae8bc4764be26637cf899815, type: 3}
+  - {fileID: 21300000, guid: a47146ca6158c4462b21e20dfd55b2bd, type: 3}
+  - {fileID: 21300000, guid: 2b0d53647e1a343a884b425bd3751932, type: 3}
+  - {fileID: 21300000, guid: d7707cce997da437db2224c5f09842f3, type: 3}
+  - {fileID: 21300000, guid: 816eac3b7d04b4d7faad27fc5956fe1a, type: 3}
+  - {fileID: 21300000, guid: 5f9cb3549dbfc4726b9b26e272452385, type: 3}
+  obstacles: []
+  background: {fileID: 212337778618103458}
+  currentSpriteTrail: {fileID: 21300000, guid: f0fb402b26e1a4730ad125b6e6bf58a0, type: 3}
+  colorsBtnTrails:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  selectedSide: 0
+  selected: 0
+  numberName: 0
+  numberNameContainer: 0
+  numberPieceTrail: 0
+  isCreateItem: 0
+  isReplaceMode: 0
+  options: []
+  listSelectedSide:
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  - Right
+  - Top
+  - Left
+  listUnsavedPoints: []
+  trueTrailContainer: {fileID: 4709851645002594}
+  falseTrailContainer: {fileID: 4323723806040200}
+  trail: {fileID: 1997824567782106, guid: d4d421ee2fe43420982262539fe99cd2, type: 2}
+  mode: 0
+  currentTrail:
+    name: 
+    transforms: []
+    side: 0
+  currentFalseTrail:
+    name: 
+    transforms: []
+    side: 0
+  coordinate: {x: 0, y: 0}
+  speed: 0
+  dummies: []
+--- !u!212 &212337778618103458
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1502330842597532}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -2050548269
+  m_SortingLayer: 2
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 808d00c44e9e143a9a3cf8494b7a2d51, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 7, y: 7}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0

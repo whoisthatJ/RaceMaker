@@ -1,0 +1,24 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprites/Default/UI/IconsAtlas.tpsheet
+- Assets/Sprites/Default/UI/MainAtlas.tpsheet
+- Assets/Sprites/EnvAtlas.tpsheet
+- Assets/Sprites/Obstacles/Default/ObstaclesAtlas.tpsheet
+- Assets/Sprites/Obstacles/Round/ObstaclesAtlas.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprites/Default/UI/IconsAtlas.png
+- Assets/Sprites/Default/UI/MainAtlas.png
+- Assets/Sprites/EnvAtlas.png
+- Assets/Sprites/Obstacles/Default/ObstaclesAtlas.png
+- Assets/Sprites/Obstacles/Round/ObstaclesAtlas.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

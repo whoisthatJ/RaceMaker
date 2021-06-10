@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ProgressLevelContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <levels>
+    <level level="1" exp="25" gold="25"/>
+    <level level="2" exp="50" gold="50"/>
+    <level level="3" exp="75" gold="75"/>
+    <level level="4" exp="100" gold="100"/>
+    <level level="5" exp="150" gold="105"/>
+    <level level="6" exp="250" gold="110"/>
+    <level level="7" exp="300" gold="115"/>
+    <level level="8" exp="350" gold="120"/>
+    <level level="9" exp="400" gold="125"/>
+    <level level="10" exp="450" gold="130"/>
+    <level level="11" exp="500" gold="135"/>
+    <level level="12" exp="550" gold="140"/>
+    <level level="13" exp="600" gold="145"/>
+    <level level="14" exp="650" gold="150"/>
+    <level level="15" exp="700" gold="155"/>
+    <level level="16" exp="750" gold="160"/>
+    <level level="17" exp="800" gold="165"/>
+    <level level="18" exp="850" gold="170"/>
+    <level level="19" exp="900" gold="175"/>    
+    <level level="20" exp="9999" gold="200"/>
+  </levels>
+</ProgressLevelContainer>

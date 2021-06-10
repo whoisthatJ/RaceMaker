@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2a9f5d2139b7284795d357c6686e725, type: 3}
+  m_Name: ResourcesInfo
+  m_EditorClassIdentifier: 
+  resourcesList:
+  - key: Xmls/dummies
+    value: {fileID: 4900000, guid: 9e4d9fc884359aa4185dc1c19f8e399a, type: 3}
+  - key: Xmls/levels
+    value: {fileID: 4900000, guid: e74a67ff9dee4e642b71a792898d850f, type: 3}
+  - key: Xmls/levels2
+    value: {fileID: 4900000, guid: 3b64f9420fbee00499ea49320ee8d27d, type: 3}
+  - key: Xmls/levelsTutorial
+    value: {fileID: 4900000, guid: 5fdb649a773a1dd449bb86e695bf63fa, type: 3}
+  - key: Xmls/progressLevels
+    value: {fileID: 4900000, guid: 1a4aace489acc0a41b9f2cfc68f0f11c, type: 3}
+  - key: Xmls/rewards
+    value: {fileID: 4900000, guid: 0fc927fa4074c0d468fa9b20369d4e7a, type: 3}
+  - key: Xmls/skins
+    value: {fileID: 4900000, guid: 253ffd40375369e459ba30eb12eaadda, type: 3}
+  - key: Prefabs/Placeholder
+    value: {fileID: 1633967245073150, guid: 15ca226b347ba02488d627f94b83783f, type: 2}
+  - key: Prefabs/Routes/RouteA001
+    value: {fileID: 1786528790755130, guid: ae3cf262ccca2be4a89fcc0b2510c98b, type: 2}
+  - key: Prefabs/Routes/RouteA002
+    value: {fileID: 1181831062777994, guid: 5f2fe4796b1584744aeb87434cec8385, type: 2}
+  - key: Prefabs/Routes/RouteA003
+    value: {fileID: 1488892038970810, guid: 032c33136aa402a4faa90a042d52f3ce, type: 2}
+  - key: Prefabs/Routes/RouteA004
+    value: {fileID: 1876339576810712, guid: f84ffaec9cfb7824294a2813224fb30d, type: 2}
+  - key: Prefabs/Routes/RouteA005
+    value: {fileID: 1911459224776518, guid: 58204c246b34d884fab525105b45f361, type: 2}
+  - key: Prefabs/Routes/RouteA006
+    value: {fileID: 1043767088473252, guid: 5ba922bee7a125f4bb35cffceca4dd54, type: 2}
+  - key: Prefabs/Routes/RouteA007
+    value: {fileID: 1158080054916110, guid: efa2157e3787669418c143666a2e5bf4, type: 2}
+  - key: Prefabs/Routes/RouteA101
+    value: {fileID: 1906735959802876, guid: bcff60fd2826253469e3fb95580d22c8, type: 2}
+  - key: Prefabs/Routes/RouteA102
+    value: {fileID: 1203225069197664, guid: dca861418ceb7bf42bba2b1dbb6e7694, type: 2}
+  - key: Prefabs/Routes/RouteA103
+    value: {fileID: 1374052491494216, guid: b5e4ade09d0b666438c7fbc3855a0ae4, type: 2}
+  - key: Prefabs/Routes/RouteA104
+    value: {fileID: 1026549954461188, guid: 6ba3c9c2e326ddc4dacf438ff83b5d26, type: 2}
+  - key: Prefabs/Routes/RouteA105
+    value: {fileID: 1384835812609850, guid: 4ad99f24039d3d643b3d2bb360a51d3d, type: 2}
+  - key: Prefabs/Routes/RouteA106
+    value: {fileID: 1699797345570350, guid: 37e6a69b4b82cab4a8c40e530269a91a, type: 2}
+  - key: Prefabs/Routes/RouteA107
+    value: {fileID: 1517756169355860, guid: 1091ca73ce7706b44b144bd183426c46, type: 2}
+  - key: Prefabs/Routes/RouteA108
+    value: {fileID: 1990561365607724, guid: 6ec8fbd2f805c8a499f11951097fc99a, type: 2}
+  - key: Prefabs/Routes/RouteA109
+    value: {fileID: 1921600014927522, guid: be5b14ad9fea80845a677b92a483bce6, type: 2}
+  - key: Prefabs/Routes/RouteA110
+    value: {fileID: 1085472612679238, guid: 8a3607bf920172143b760e89e710042a, type: 2}
+  - key: Prefabs/Routes/RouteA111
+    value: {fileID: 1290244086402630, guid: 8bcecd4c9e353ec47857aae30fe50322, type: 2}
+  - key: Prefabs/Routes/RouteA112
+    value: {fileID: 1139075031962206, guid: 956f212ae10930147a37d394c524dac2, type: 2}
+  - key: Prefabs/Routes/RouteA113
+    value: {fileID: 1120921221037762, guid: 005f1ff032191cb4696ae92d1e6c7847, type: 2}
+  - key: Prefabs/Routes/RouteA114
+    value: {fileID: 1139343379837334, guid: 05dbde3b340f5c248b38fd4184f25f8a, type: 2}
+  - key: Prefabs/Routes/RouteA115
+    value: {fileID: 1206714784804142, guid: a906c3415a5efc846926fddaeffd61be, type: 2}
+  - key: Prefabs/Routes/RouteA116
+    value: {fileID: 1484892462803964, guid: 53302815df01de34bbdc4102003c67a9, type: 2}
+  - key: Prefabs/Routes/RouteA117
+    value: {fileID: 1913056491476038, guid: af20f1de383e8c140a34ad57333f048a, type: 2}
+  - key: Prefabs/Routes/RouteB001
+    value: {fileID: 1011316308407864, guid: cf66823658d4acd4f86c998f1e815ec5, type: 2}
+  - key: Prefabs/Routes/RouteB002
+    value: {fileID: 1764948722240636, guid: 21226c564a73e0645b467209d17e74f8, type: 2}
+  - key: Prefabs/Routes/RouteB003
+    value: {fileID: 1624142697766574, guid: c56f6d3b889abd5459d04cca406d3ebb, type: 2}
+  - key: Prefabs/Routes/RouteB101
+    value: {fileID: 1218218746682460, guid: aece49ecb2c3fe7459e0b07101068e69, type: 2}
+  - key: Prefabs/Routes/RouteB102
+    value: {fileID: 1571942696501764, guid: 74c1727039cb82d478d698c7891fa993, type: 2}
+  - key: Prefabs/Routes/RouteB103
+    value: {fileID: 1767775562137896, guid: dc3075832894ee1418d8b4ec2016d44e, type: 2}
+  - key: Prefabs/Routes/RouteB104
+    value: {fileID: 1129551052036660, guid: 37738fa8422f3d549b8e0d6424ebeea0, type: 2}
+  - key: Prefabs/Routes/RouteB105
+    value: {fileID: 1306264762760012, guid: 67d6ff132e71099479ba1314598f8f53, type: 2}
+  - key: Prefabs/Routes/RouteB106
+    value: {fileID: 1544996410590330, guid: 1bdd3e78e33474e4e817c8e0460b9961, type: 2}
+  - key: Prefabs/Routes/RouteB107
+    value: {fileID: 1804074526578196, guid: 180f894878508f549b72eb5cdf43d9ab, type: 2}
+  - key: Prefabs/Routes/RouteB108
+    value: {fileID: 1080052786508504, guid: d6d02e144ee96e54d83b0f9c8dcab959, type: 2}
+  - key: Prefabs/Routes/RouteB109
+    value: {fileID: 1081444717972192, guid: bc910343e7cd5314bb72f5cf9a1605a8, type: 2}
+  - key: Prefabs/Routes/RouteB110
+    value: {fileID: 1954533152529782, guid: 8b04230b1c47b014daba28efdd857443, type: 2}
+  - key: Prefabs/Routes/RouteB111
+    value: {fileID: 1285155828119770, guid: 3fc887d09697b4d46be18e8450b3171e, type: 2}
+  - key: Prefabs/Routes/RouteB201
+    value: {fileID: 1329773087195054, guid: 0a41268a8eb4a634aa6653b60a347e49, type: 2}
+  - key: Prefabs/Routes/RouteB202
+    value: {fileID: 1751170642883272, guid: 968c01fe9de207d4894d7d458dd4e4cc, type: 2}
+  - key: Prefabs/Routes/RouteB203
+    value: {fileID: 1329991734599370, guid: 14768bd3bf51c424480c1f8f009d0f9d, type: 2}
+  - key: Prefabs/Routes/RouteB204
+    value: {fileID: 1191915146152488, guid: 44964460dae271c4990f6ab31a93b92e, type: 2}
+  - key: Prefabs/Routes/RouteB205
+    value: {fileID: 1186507193704674, guid: 8de5fa2342c7d264ab495f189daa5a2e, type: 2}
+  - key: Prefabs/Routes/RouteB206
+    value: {fileID: 1153045491865034, guid: 403c03b1570d1ee4bba0b7ebb7e2caf0, type: 2}
+  - key: Prefabs/Routes/RouteB207
+    value: {fileID: 1525053685559724, guid: dd8b76d105c4347488e70464b232050f, type: 2}
+  - key: Prefabs/Routes/RouteB208
+    value: {fileID: 1187013087519316, guid: e4949e66d5151f14faf0c6e10e7fab58, type: 2}
+  - key: Prefabs/Routes/RouteB209
+    value: {fileID: 1886355693073544, guid: 951a2ab6551ca2f4d87ff38763a6a433, type: 2}
+  - key: Prefabs/Routes/RouteB210
+    value: {fileID: 1285637492519268, guid: 9f2ae5bf1a09fe440aca4f3ed0376cb0, type: 2}
+  - key: Prefabs/Routes/RouteB211
+    value: {fileID: 1836596704523324, guid: 5a95bf6d8b5f13b4fa0f0dcb86db5965, type: 2}
+  - key: Prefabs/Routes/RouteB212
+    value: {fileID: 1263298454803600, guid: 2c5b563edb0be084ba4691d14b69dea2, type: 2}
+  - key: Prefabs/Routes/RouteC001
+    value: {fileID: 1414467363711480, guid: 4da1d7732cd41b54c8147c9b68dad04c, type: 2}
+  - key: Prefabs/Routes/RouteC002
+    value: {fileID: 1174359583763948, guid: 85bb31f3724a00f4a872d3e257ab5c5d, type: 2}
+  - key: Prefabs/Routes/RouteC003
+    value: {fileID: 1724404018849838, guid: 3329b6047b4334445834a20aea0b2f31, type: 2}
+  - key: Prefabs/Routes/RouteD001
+    value: {fileID: 1165706609697718, guid: fcb3fa644fdc8d44b8d4f58d484652cc, type: 2}
+  - key: Prefabs/Routes/RouteD002
+    value: {fileID: 1622418531757518, guid: bc10b7bd5e979bc4e93d90d7041308ce, type: 2}
+  - key: Prefabs/Routes/RouteD003
+    value: {fileID: 1314624142906612, guid: c5e36bda1839c51429ed94e69c638592, type: 2}
+  - key: Prefabs/Routes/RouteD004
+    value: {fileID: 1539363557737806, guid: 291a30ba5d361f74282fef0f83aa190a, type: 2}
+  - key: Prefabs/Routes/RouteDummyEmpty
+    value: {fileID: 1644613414181986, guid: 528c8c2577867364ca31824ade794226, type: 2}
+  - key: Prefabs/Routes/RouteE001
+    value: {fileID: 1624005729351300, guid: 0e0de519e613db449a7bb44d89eed470, type: 2}
+  - key: Prefabs/Routes/RouteE002
+    value: {fileID: 1684883330606788, guid: abbd1c2396966c74a8f3e92ba570d7b3, type: 2}
+  - key: Prefabs/Routes/RouteE003
+    value: {fileID: 1965841680606476, guid: 56d3f9816394e234f888738451c5d197, type: 2}
+  - key: Prefabs/Routes/RouteE004
+    value: {fileID: 1135267331182714, guid: 8faba83401f38a44cb03dc4f6ac4b30d, type: 2}
+  - key: Prefabs/Routes/RouteE005
+    value: {fileID: 1250343577441962, guid: 4765ec51c9758954facbb0249adb55f9, type: 2}
+  - key: Prefabs/Routes/RouteE101
+    value: {fileID: 1636150111640222, guid: 9b9293cf3c229b846a60d3272cae3918, type: 2}
+  - key: Prefabs/Routes/RouteE102
+    value: {fileID: 1274764469431454, guid: 1c57863fec5d7644c9035a08a4acbd19, type: 2}
+  - key: Prefabs/Routes/RouteE103
+    value: {fileID: 1973726890493516, guid: 10d03fdd2ea381144b46d734d51d62ac, type: 2}
+  - key: Prefabs/Routes/RouteE104
+    value: {fileID: 1679739074836956, guid: edbfc5b2bec3fae4cbd6bf4373084a9b, type: 2}
+  - key: Prefabs/Routes/RouteE201
+    value: {fileID: 1432841628087686, guid: fda4b644efb28d94787471d6842c7a30, type: 2}
+  - key: Prefabs/Routes/RouteE202
+    value: {fileID: 1957520787489190, guid: 82cefdcef3a068042a4a4c55efca0132, type: 2}
+  - key: Prefabs/Routes/RouteE203
+    value: {fileID: 1819003652238446, guid: 06263327099dcb3468c1bfe4aa8985a5, type: 2}
+  - key: Prefabs/Routes/RouteE204
+    value: {fileID: 1253606650141272, guid: 1a8e60e30d863be4499cc3c78c9ee332, type: 2}
+  - key: Prefabs/Routes/RouteE205
+    value: {fileID: 1049749229467364, guid: df51686054c958f4fad5c05adb98d622, type: 2}
+  - key: Prefabs/Routes/RouteE206
+    value: {fileID: 1991433565708802, guid: 3885766d36d77c740b0fe0c7eea14579, type: 2}
+  - key: Prefabs/Routes/RouteE207
+    value: {fileID: 1331729865233730, guid: fe3c14684d2a7ed4f897ba6175bac629, type: 2}
+  - key: Prefabs/Routes/RouteE208
+    value: {fileID: 1321792411250720, guid: 33ad4015989f76d43a0e51811f805fd1, type: 2}
+  - key: Prefabs/Routes/RouteE209
+    value: {fileID: 1696429491344334, guid: 3e0f895616bb32840af41f057030514a, type: 2}
+  - key: Prefabs/Routes/RoutePool
+    value: {fileID: 1161426399412704, guid: f6b17c46264378142af91126c77a7a3a, type: 2}
+  - key: Prefabs/Routes/RouteT001
+    value: {fileID: 1683646069892874, guid: bec19440f8eb2b64fa10eeaa8dc65874, type: 2}
+  - key: Prefabs/Routes/RouteT002
+    value: {fileID: 1432831541728070, guid: 0fb731ea817d8bb4db37b2cb3cfe326e, type: 2}
+  - key: Prefabs/Routes/RouteT003
+    value: {fileID: 1218356964795856, guid: 5bb38ea130b2b134e930947d032d8f35, type: 2}
+  - key: Prefabs/Routes/RouteT004
+    value: {fileID: 1260735561669786, guid: b7c7cdec24a4b7b4eb5f8c9639f396d2, type: 2}
+  - key: Prefabs/Routes/RouteT005
+    value: {fileID: 1481210679261594, guid: 51e492a3183cacb4da36a7d4e1411496, type: 2}
+  - key: Prefabs/Routes/RouteT006
+    value: {fileID: 1323519642064820, guid: 2eca8fae55cec844abe7047405d5e32e, type: 2}
+  - key: Prefabs/Routes/RouteT007
+    value: {fileID: 1548174735020952, guid: 09f705ac68299a04ea06808e79a1c620, type: 2}
+  - key: Prefabs/Routes/RouteT008
+    value: {fileID: 1497579480405672, guid: d74de96d96cda2440b8e003be9d94a45, type: 2}
+  - key: Prefabs/Routes/RouteT009
+    value: {fileID: 1823721421902970, guid: 46f73181228c4914686549faeca9ebd1, type: 2}
+  - key: Prefabs/Routes/RouteT010
+    value: {fileID: 1201335170377098, guid: 8de3c21e659dd1943a5a3c90ac50a5fa, type: 2}
+  - key: Prefabs/Routes/RouteT011
+    value: {fileID: 1519258554947396, guid: 466aafca7c870874794d5dad0843aacb, type: 2}
+  - key: Prefabs/Routes/RouteT100
+    value: {fileID: 1005252561129454, guid: 9cc4f03b0502ff2449363d777e246ec9, type: 2}
+  - key: Prefabs/Routes/RouteT101
+    value: {fileID: 1376278255958028, guid: 57c9aa0820677754c9b141939d66a56c, type: 2}
+  - key: Prefabs/Routes/RouteT102
+    value: {fileID: 1632586176802868, guid: 63e30bdba4144ad4aa86411596e60fc3, type: 2}
+  - key: Prefabs/Routes/RouteZ000
+    value: {fileID: 1268200492870160, guid: 4d0db26f1d4324443ba521c65f624c03, type: 2}
+  - key: Prefabs/Routes/RouteZ001
+    value: {fileID: 1872505815044930, guid: 8c72ad9d5387907439c0e83a65d51dcf, type: 2}
+  - key: Prefabs/Routes/RouteZ002
+    value: {fileID: 1209064060803490, guid: f043c9a16c7bfa641bac8f6a31e76513, type: 2}

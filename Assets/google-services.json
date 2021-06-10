@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1098636492836",
+    "firebase_url": "https://race-maker.firebaseio.com",
+    "project_id": "race-maker",
+    "storage_bucket": "race-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098636492836:android:8eae2f7009d258f8",
+        "android_client_info": {
+          "package_name": "kz.snailwhale.racepuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098636492836-ilaeifngsgh5ggkkra7kfpr6s6qt4pgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3K2e2dzJ8YQDg0MYsFT_2QsMB30psQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

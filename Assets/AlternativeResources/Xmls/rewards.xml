@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<DailyRewardContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<rewards>
+        <reward day="1" rewardType="Coins" reward="500"/>
+        <reward day="2" rewardType="Skin" reward="Default"/>
+        <reward day="3" rewardType="Coins" reward="200"/>
+	</rewards>
+</DailyRewardContainer>

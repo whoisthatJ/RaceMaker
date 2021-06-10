@@ -1,0 +1,188 @@
+﻿Pick your language : English = Pick your language
+Pick your language : Russian = Выбери язык
+Pick your language : Italian = Scegli la tua lingua
+Pick your language : Spanish = Eliga tu idioma
+Pick your language : German = Wähle deine Sprache
+Pick your language : French = Choisissez votre langue
+Pick your language : Chinese = 选择语言
+Pick your language : Portuguese = Escolha seu idioma
+
+Restore Purchases : English = Restore Purchases
+Restore Purchases : Russian = Восстановить Покупки
+Restore Purchases : Italian = Ripristina acquisti
+Restore Purchases : Spanish = Restablecer las compras
+Restore Purchases : German = Einkäufe wiederherstellen
+Restore Purchases : French = Restaurer les Achats
+Restore Purchases : Chinese = 恢复购买
+Restore Purchases : Portuguese = Restabelecer as Compras
+
+Remove Ads : English = Remove Ads
+Remove Ads : Russian = Убрать Рекламу
+Remove Ads : Italian = Rimuovi Annunci
+Remove Ads : Spanish = Quitar anuncios
+Remove Ads : German = Anzeige entfernen
+Remove Ads : French = Supprimez la Pub
+Remove Ads : Chinese = 移除广告
+Remove Ads : Portuguese = Remover Anúncios
+
+Pause : English = Pause
+Pause : Russian = Пауза
+Pause : Italian = Pausa
+Pause : Spanish = Pausa
+Pause : German = Pause
+Pause : French = Pause
+Pause : Chinese = 停顿
+Pause : Portuguese = Pausa
+
+QuitTheGame : English = Are you sure you want to quit?
+QuitTheGame : Russian = Выйти из игры?
+QuitTheGame : Italian = Sei sicuro di voler uscire?
+QuitTheGame : Spanish = ¿Seguro que quieres salir?
+QuitTheGame : German = Bist du dir sicher, dass du aufhören möchtest?
+QuitTheGame : French = Êtes-vous sûr de vouloir quitter?
+QuitTheGame : Chinese = 确定退出？
+QuitTheGame : Portuguese = Tem certeza que deseja sair?
+
+Enjoying the game? : English = Enjoying the game?
+Enjoying the game? : Russian = Понравилась игра?
+Enjoying the game? : Italian = Godendo il gioco?
+Enjoying the game? : Spanish = Disfrutando el juego?
+Enjoying the game? : German = Das Spiel genießen?
+Enjoying the game? : French = Profiter du jeu?
+Enjoying the game? : Chinese = 享受游戏？
+Enjoying the game? : Portuguese = Aproveitando o jogo?
+
+Rate us! : English = Rate us!
+Rate us! : Russian = Оцени нас!
+Rate us! : Italian = Votaci!
+Rate us! : Spanish = ¡Nos califica!
+Rate us! : German = Bewerte uns!
+Rate us! : French = Évaluez nous!
+Rate us! : Chinese = 评价我们！
+Rate us! : Portuguese = Nos avalie!
+
+Later : English = Later
+Later : Russian = Потом
+Later : Italian = Dopo
+Later : Spanish = Luego
+Later : German = Später
+Later : French = Plus tard
+Later : Chinese = 后来
+Later : Portuguese = Mais tarde
+
+Never : English = Never
+Never : Russian = Никогда
+Never : Italian = Mai
+Never : Spanish = Nunca
+Never : German = Noch nie
+Never : French = Jamais
+Never : Chinese = 决不
+Never : Portuguese = Nunca
+
+Best : English = Best
+Best : Russian = Рекорд
+Best : Italian = Migliore
+Best : Spanish = Record
+Best : German = Rekord
+Best : French = Meilleur score
+Best : Chinese = 记录
+Best : Portuguese = Recorde
+
+New Best : English = New Best
+New Best : Russian = Новый Рекорд
+New Best : Italian = Nuovo Migliore
+New Best : Spanish = Nuevo record
+New Best : German = Neuer Rekord
+New Best : French = Nouveau record
+New Best : Chinese = 新记录
+New Best : Portuguese = Novo Recorde
+
+Claim : English = Claim
+Claim : Russian = Собрать
+Claim : Italian = Rivendicazione
+Claim : Spanish = Reclamar
+Claim : German = Fordern
+Claim : French = Prétendre
+Claim : Chinese = 收集
+Claim : Portuguese = Colher
+
+Settings : English = Settings
+Settings : Russian = Настройки
+Settings : Italian = Impostazioni
+Settings : Spanish = Configuraciónes
+Settings : German = Einstellungen
+Settings : French = Paramètres
+Settings : Chinese = 设置
+Settings : Portuguese = Configurações
+
+NoMoney : English = Not Enough <sprite name=Coin>
+NoMoney : Russian = Недостаточно <sprite name=Coin>
+NoMoney : Italian = Non Abbastanza <sprite name=Coin>
+NoMoney : Spanish = No hay <sprite name=Coin>
+NoMoney : German = Nicht ausreichend <sprite name=Coin>
+NoMoney : French = Pas assez <sprite name=Coin>
+NoMoney : Chinese = 不够 <sprite name=Coin>
+NoMoney : Portuguese = Não é bastante <sprite name=Coin>
+
+NoAds : English = No Ads Available
+NoAds : Russian = Рекламы не найдено :(
+NoAds : Italian = Nessun annuncio disponibile
+NoAds : Spanish = No hay anuncios disponibles
+NoAds : German = Keine Werbung verfügbar
+NoAds : French = Aucune annonce disponible
+NoAds : Chinese = 未找到广告 :(
+NoAds : Portuguese = Nenhum anúncio disponível
+
+GiftNotReady : English = Your gift is not ready yet
+GiftNotReady : Russian = Твой подарок ещё не готов
+GiftNotReady : Italian = Il tuo regalo non è ancora pronto
+GiftNotReady : Spanish = Tu regalo aún no está listo
+GiftNotReady : German = Dein Geschenk ist noch nicht bereit
+GiftNotReady : French = Votre cadeau n'est pas encore prêt
+GiftNotReady : Chinese = 你的礼物还没有准备好
+GiftNotReady : Portuguese = Seu presente ainda não está pronto
+
+GooglePlayLogin : English = You are not connected to Google Play. Try to connect in settings.
+GooglePlayLogin : Russian = "Goggle Play не подключен. Подключись в Настройках"
+GooglePlayLogin : Italian = "Non sei connesso a Google Play. Provare a connettersi con le impostazioni."
+GooglePlayLogin : Spanish = No estás conectado a Google Play. Intenta conectarte en configuraciónes.
+GooglePlayLogin : German = Du bist nicht mit Google Play verbunden. Versuche die Verbindung in den Einstellungen  herzustellen.
+GooglePlayLogin : French = "Vous n'êtes pas connecté à Google Play. Essayez de vous connecter dans les paramètres."
+GooglePlayLogin : Chinese = "Google Play 未连接。需要连上到“设置”"
+GooglePlayLogin : Portuguese = O Google Play não está ligado. Ligue nas Configurações
+
+GooglePlayLoginFail : English = Failed to connect to GooglePlay. Check internet connection
+GooglePlayLoginFail : Russian = "Ошибка подключения к Google Play. Проверьте интернет соединение. "
+GooglePlayLoginFail : Italian = "Impossibile connettersi a Google Play. Controllare la connessione internet."
+GooglePlayLoginFail : Spanish = No se pudo conectar a Google Play. Verifica la conexión a internet
+GooglePlayLoginFail : German = Verbindung zu Google Play konnte nicht hergestellt werden. Überprüfe deine Internetverbindung
+GooglePlayLoginFail : French = "Impossible de se connecter à Google Play.  Vérifiez la connexion internet"
+GooglePlayLoginFail : Chinese = "Google Play 连接失败。请，检查互联网连接。"
+GooglePlayLoginFail : Portuguese = Erro ao ligar ao Google Play. Verifique a conexão com a Internet.
+
+TutorialRight : English = Press right button!
+TutorialRight : Russian = Собрать
+TutorialRight : Italian = Rivendicazione
+TutorialRight : Spanish = Reclamar
+TutorialRight : German = Fordern
+TutorialRight : French = Prétendre
+TutorialRight : Chinese = 收集
+TutorialRight : Portuguese = Colher
+
+TutorialLeft : English = Press left button!
+TutorialLeft : Russian = Собрать
+TutorialLeft : Italian = Rivendicazione
+TutorialLeft : Spanish = Reclamar
+TutorialLeft : German = Fordern
+TutorialLeft : French = Prétendre
+TutorialLeft : Chinese = 收集
+TutorialLeft : Portuguese = Colher
+
+TutorialComplete : English = You are on your own now!
+TutorialComplete : Russian = Собрать
+TutorialComplete : Italian = Rivendicazione
+TutorialComplete : Spanish = Reclamar
+TutorialComplete : German = Fordern
+TutorialComplete : French = Prétendre
+TutorialComplete : Chinese = 收集
+TutorialComplete : Portuguese = Colher

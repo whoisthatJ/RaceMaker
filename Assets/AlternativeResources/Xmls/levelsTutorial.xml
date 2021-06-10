@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<RaceLevelContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <levels>
+    <level level ="5" speed="1.4" color="Blue">
+      <prefabs>
+        <prefab>RouteT001</prefab>
+        <prefab>RouteT002</prefab>
+        <prefab>RouteT003</prefab>
+      </prefabs>
+    </level>
+    <level level ="10" speed="1.6" color="Green">
+      <prefabs>
+        <prefab>RouteT002</prefab>
+        <prefab>RouteT003</prefab>
+        <prefab>RouteT004</prefab>
+        <prefab>RouteT005</prefab>
+        <prefab>RouteT006</prefab>
+      </prefabs>
+    </level>
+    <level level ="20" speed="1.8" color="Blue">
+      <prefabs>
+        <prefab>RouteT002</prefab>
+        <prefab>RouteT003</prefab>
+        <prefab>RouteT004</prefab>
+        <prefab>RouteT005</prefab>
+        <prefab>RouteT006</prefab>
+
+        <prefab>RouteT007</prefab>
+        <prefab>RouteT008</prefab>
+        <prefab>RouteT009</prefab>
+        <prefab>RouteT010</prefab>
+        <prefab>RouteT011</prefab>        
+      </prefabs>
+    </level>
+    <level level ="30" speed="2.0" color="Purple">
+      <prefabs>
+        <prefab>RouteT004</prefab>
+        <prefab>RouteT005</prefab>
+        <prefab>RouteT006</prefab>
+
+        <prefab>RouteA004</prefab>
+        <prefab>RouteA005</prefab>
+        <prefab>RouteA006</prefab>
+        <prefab>RouteA007</prefab>
+
+        <prefab>RouteA106</prefab>
+        <prefab>RouteA107</prefab>
+
+      </prefabs>
+    </level>    
+  </levels>
+</RaceLevelContainer>

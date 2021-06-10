@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b580e52a6a389334b61b36dc663f4929:0bcad0f358186311361379811e47d58d:6341bbc0a53a1692257e9fa677601701$
+#
+:format=40300
+:texture=ObstaclesAtlas.png
+:size=256x512
+:pivotpoints=enabled
+:borders=disabled
+
+blue-BlueObstacle01;1;411;100;100; 0.5;0.5; 0;0;0;0
+blue-BlueObstacleGlow01;103;411;100;100; 0.5;0.5; 0;0;0;0
+brown-BrownObstacle01;1;309;100;100; 0.5;0.5; 0;0;0;0
+brown-BrownObstacleGlow01;103;309;100;100; 0.5;0.5; 0;0;0;0
+green-GreenObstacle01;1;207;100;100; 0.5;0.5; 0;0;0;0
+green-GreenObstacleGlow01;103;207;100;100; 0.5;0.5; 0;0;0;0
+purple-PurpleObstacle01;1;105;100;100; 0.5;0.5; 0;0;0;0
+purple-PurpleObstacleGlow01;1;3;100;100; 0.5;0.5; 0;0;0;0
+red-RedObstacle01;103;105;100;100; 0.5;0.5; 0;0;0;0
+red-RedObstacleGlow01;103;3;100;100; 0.5;0.5; 0;0;0;0

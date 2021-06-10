@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<RaceLevelContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <levels>
+    <level level ="10" speed="2.2" color="Green">
+      <prefabs>
+        <prefab>RouteA001</prefab>
+        <prefab>RouteA002</prefab>
+        <prefab>RouteA003</prefab>
+        <prefab>RouteA004</prefab>
+        <prefab>RouteA005</prefab>
+        <prefab>RouteA006</prefab>
+        <prefab>RouteA007</prefab>
+      </prefabs>
+    </level>
+    <level level ="20" speed="2.4" color="Blue">
+      <prefabs>
+        <prefab>RouteA004</prefab>
+        <prefab>RouteA005</prefab>
+        <prefab>RouteA006</prefab>
+        <prefab>RouteA007</prefab>
+
+        <prefab>RouteA103</prefab>
+        <prefab>RouteA104</prefab>
+
+        <prefab>RouteA109</prefab>
+        <prefab>RouteA110</prefab>
+      </prefabs>
+    </level>
+    <level level ="30" speed="2.6" color="Purple">
+      <prefabs>
+        <prefab>RouteA006</prefab>
+        <prefab>RouteA007</prefab>        
+
+        <prefab>RouteA105</prefab>
+        <prefab>RouteA106</prefab>
+        <prefab>RouteA107</prefab>
+        <prefab>RouteA108</prefab>   
+        <prefab>RouteA109</prefab>
+        <prefab>RouteA110</prefab>
+
+        <prefab>RouteB201</prefab>
+        <prefab>RouteB202</prefab>
+        <prefab>RouteB203</prefab>
+        <prefab>RouteB204</prefab>        
+      </prefabs>
+    </level>
+    <level level ="40" speed="2.8" color="Brown">
+      <prefabs>
+        <prefab>RouteA103</prefab>
+        <prefab>RouteA104</prefab>
+        <prefab>RouteA105</prefab>
+        <prefab>RouteA106</prefab>
+        <prefab>RouteA107</prefab>
+        <prefab>RouteA108</prefab>   
+        <prefab>RouteA109</prefab>
+        <prefab>RouteA110</prefab>
+
+        <prefab>RouteA111</prefab>
+        <prefab>RouteA112</prefab>
+        <prefab>RouteA113</prefab>
+        <prefab>RouteA114</prefab>
+
+        <prefab>RouteA116</prefab>
+        <prefab>RouteA117</prefab>
+
+        <prefab>RouteB201</prefab>
+        <prefab>RouteB202</prefab>
+        <prefab>RouteB203</prefab>
+        <prefab>RouteB204</prefab>                         
+      </prefabs>
+    </level>
+    <level level ="50" speed="3" color="Red">
+      <prefabs>
+        <prefab>RouteA103</prefab>
+        <prefab>RouteA104</prefab>
+        <prefab>RouteA105</prefab>
+        <prefab>RouteA106</prefab>
+ 
+        <prefab>RouteA109</prefab>
+        <prefab>RouteA110</prefab>
+
+        <prefab>RouteA116</prefab>
+        <prefab>RouteA117</prefab>
+
+        <prefab>RouteB001</prefab>
+        <prefab>RouteB002</prefab>
+        <prefab>RouteB003</prefab>
+
+        <prefab>RouteB101</prefab>
+        <prefab>RouteB102</prefab>
+
+        <prefab>RouteB203</prefab>
+        <prefab>RouteB204</prefab>
+        <prefab>RouteB205</prefab>
+        <prefab>RouteB206</prefab>                      
+      </prefabs>
+    </level>
+    <level level ="60" speed="3.2" color="Green" shape ="circle">
+      <prefabs>
+        <prefab>RouteA109</prefab>
+        <prefab>RouteA110</prefab>
+
+        <prefab>RouteA116</prefab>
+        <prefab>RouteA117</prefab>
+
+        <prefab>RouteB101</prefab>
+        <prefab>RouteB102</prefab>
+
+        <prefab>RouteB104</prefab>
+        <prefab>RouteB105</prefab>
+
+        <prefab>RouteB109</prefab>
+
+        <prefab>RouteB203</prefab>
+        <prefab>RouteB204</prefab> 
+
+        <prefab>RouteC001</prefab>
+        <prefab>RouteC002</prefab>
+        <prefab>RouteC003</prefab>        
+      </prefabs>
+    </level>
+    <level level ="70" speed="3.4" color="Blue" shape ="circle">
+      <prefabs>
+        <prefab>RouteA111</prefab>
+        <prefab>RouteA112</prefab>
+
+        <prefab>RouteA115</prefab>
+
+        <prefab>RouteB205</prefab>
+        <prefab>RouteB206</prefab> 
+
+        <prefab>RouteC001</prefab>
+        <prefab>RouteC002</prefab>
+        <prefab>RouteC003</prefab>
+
+        <prefab>RouteD001</prefab>
+        <prefab>RouteD002</prefab>
+        <prefab>RouteD003</prefab>
+        <prefab>RouteD004</prefab>
+
+        <prefab>RouteE101</prefab>
+        <prefab>RouteE102</prefab>                  
+      </prefabs>
+    </level>
+    <level level ="80" speed="3.6" color="Purple" shape ="circle">
+      <prefabs>
+        <prefab>RouteB104</prefab>
+        <prefab>RouteB105</prefab>
+
+        <prefab>RouteB108</prefab>
+        <prefab>RouteB109</prefab>
+
+        <prefab>RouteB211</prefab>
+        <prefab>RouteB212</prefab> 
+
+        <prefab>RouteC001</prefab>
+        <prefab>RouteC002</prefab>
+        <prefab>RouteC003</prefab>
+
+        <prefab>RouteD001</prefab>
+        <prefab>RouteD002</prefab>
+        <prefab>RouteD003</prefab>
+        <prefab>RouteD004</prefab>
+
+        <prefab>RouteE101</prefab>
+        <prefab>RouteE102</prefab>
+      </prefabs>
+    </level>
+      <level level ="90" speed="3.8" color="Brown" shape ="circle">
+      <prefabs>
+        <prefab>RouteB109</prefab>
+
+        <prefab>RouteB207</prefab>
+        <prefab>RouteB208</prefab> 
+
+        <prefab>RouteC001</prefab>
+        <prefab>RouteC002</prefab>
+        <prefab>RouteC003</prefab>
+
+        <prefab>RouteD001</prefab>
+        <prefab>RouteD002</prefab>
+        <prefab>RouteD003</prefab>
+        <prefab>RouteD004</prefab>
+
+        <prefab>RouteE001</prefab>
+
+        <prefab>RouteE103</prefab>
+        <prefab>RouteE104</prefab>
+      </prefabs>
+    </level>
+    <level level ="100" speed="4" color="Red" shape ="circle">
+      <prefabs>
+        <prefab>RouteB207</prefab>
+        <prefab>RouteB208</prefab>        
+
+        <prefab>RouteC001</prefab>
+        <prefab>RouteC002</prefab>
+        <prefab>RouteC003</prefab>
+
+        <prefab>RouteD001</prefab>
+        <prefab>RouteD002</prefab>
+        <prefab>RouteD003</prefab>
+        <prefab>RouteD004</prefab>
+
+        <prefab>RouteE001</prefab>
+
+        <prefab>RouteE103</prefab>
+        <prefab>RouteE104</prefab>
+
+        <prefab>RouteE201</prefab>
+        <prefab>RouteE202</prefab>
+        <prefab>RouteE203</prefab>
+        <prefab>RouteE204</prefab>
+      </prefabs>
+    </level>
+    <level level ="110" speed="4.2" color="Green" shape ="circle">
+      <prefabs>
+        <prefab>RouteB207</prefab>
+        <prefab>RouteB208</prefab>
+        <prefab>RouteB209</prefab>
+        <prefab>RouteB210</prefab>        
+
+        <prefab>RouteC001</prefab>
+        <prefab>RouteC002</prefab>
+        <prefab>RouteC003</prefab>
+
+        <prefab>RouteD001</prefab>
+        <prefab>RouteD002</prefab>
+        <prefab>RouteD003</prefab>
+        <prefab>RouteD004</prefab>
+
+        <prefab>RouteE001</prefab>
+
+        <prefab>RouteE201</prefab>
+        <prefab>RouteE202</prefab>
+        <prefab>RouteE203</prefab>
+        <prefab>RouteE204</prefab>
+        <prefab>RouteE205</prefab>
+        <prefab>RouteE206</prefab>
+      </prefabs>
+    </level>
+    <level level ="120" speed="4.4" color="Blue" shape ="circle">
+      <prefabs>
+        <prefab>RouteB207</prefab>
+        <prefab>RouteB208</prefab>
+        <prefab>RouteB209</prefab>
+        <prefab>RouteB210</prefab>        
+
+        <prefab>RouteC001</prefab>
+        <prefab>RouteC002</prefab>
+        <prefab>RouteC003</prefab>
+
+        <prefab>RouteE001</prefab>
+        <prefab>RouteE002</prefab>
+        <prefab>RouteE003</prefab>
+
+        <prefab>RouteE201</prefab>
+        <prefab>RouteE202</prefab>
+        <prefab>RouteE203</prefab>
+        <prefab>RouteE204</prefab>
+        <prefab>RouteE205</prefab>
+        <prefab>RouteE206</prefab>
+        <prefab>RouteE207</prefab>
+        <prefab>RouteE208</prefab>
+        <prefab>RouteE209</prefab>
+      </prefabs>
+    </level>
+  </levels>
+</RaceLevelContainer>

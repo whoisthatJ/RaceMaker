@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4284d99e726559bbae0cc48011d399a4:082213333f8b852dcaa0c354afafc1b2:b55c15e1dbfda0a462ccfa63552a687d$
+#
+:format=40300
+:texture=EnvAtlas.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+blue-BlueObstacle01;103;105;100;100; 0.5;0.5; 0;0;0;0
+blue-BlueObstacleGlow01;103;3;100;100; 0.5;0.5; 0;0;0;0
+brown-BrownObstacle01;205;309;100;100; 0.5;0.5; 0;0;0;0
+brown-BrownObstacleGlow01;307;309;100;100; 0.5;0.5; 0;0;0;0
+CornerRoad 1;1;411;100;100; 0.5;0.5; 0;0;0;0
+CornerRoad 2;1;309;100;100; 0.5;0.5; 0;0;0;0
+CornerRoad 3;1;207;100;100; 0.5;0.5; 0;0;0;0
+CornerRoad;1;105;100;100; 0.5;0.5; 0;0;0;0
+CrossRoad;1;3;100;100; 0.5;0.5; 0;0;0;0
+green-GreenObstacle01;409;309;100;100; 0.5;0.5; 0;0;0;0
+green-GreenObstacleGlow01;205;207;100;100; 0.5;0.5; 0;0;0;0
+Grid7;307;141;64;64; 0.5;0.5; 0;0;0;0
+purple-PurpleObstacle01;205;105;100;100; 0.5;0.5; 0;0;0;0
+purple-PurpleObstacleGlow01;205;3;100;100; 0.5;0.5; 0;0;0;0
+red-RedObstacle01;307;207;100;100; 0.5;0.5; 0;0;0;0
+red-RedObstacleGlow01;409;207;100;100; 0.5;0.5; 0;0;0;0
+StraightRoad 1;103;411;100;100; 0.5;0.5; 0;0;0;0
+StraightRoad;205;411;100;100; 0.5;0.5; 0;0;0;0
+TCrossRoad 1;307;411;100;100; 0.5;0.5; 0;0;0;0
+TCrossRoad 2;409;411;100;100; 0.5;0.5; 0;0;0;0
+TCrossRoad 3;103;309;100;100; 0.5;0.5; 0;0;0;0
+TCrossRoad;103;207;100;100; 0.5;0.5; 0;0;0;0
